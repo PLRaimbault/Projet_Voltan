@@ -1,2 +1,4 @@
 # Projet_Voltan
-Projet robot de l'université chapingo
+Chapingo University robot project
+
+// TO-DO
